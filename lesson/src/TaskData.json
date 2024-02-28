@@ -1,0 +1,6 @@
+{
+    "taskText": "Which shape shows third",
+    "taskConditions": "Choose the right answer",
+    "correctAnswer": "C",
+    "answerOptions": ["A","B","C"]
+  }
